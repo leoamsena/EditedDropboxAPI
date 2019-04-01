@@ -1,7 +1,8 @@
 {
-    "name": "spatie/dropbox-api",
+    "name": "leoamsena/dropbox-api",
     "description": "A minimal implementation of Dropbox API v2",
     "keywords": [
+        'leoamsena',
         "spatie",
         "dropbox-api",
         "dropbox",
@@ -11,6 +12,11 @@
     "homepage": "https://github.com/spatie/dropbox-api",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Leonardo Amorim de Sena",
+            "email": "leonardo123.amorim@gmail.com",
+            "role": "Developer"
+        }
         {
             "name": "Alex Vanderbist",
             "email": "alex.vanderbist@gmail.com",
