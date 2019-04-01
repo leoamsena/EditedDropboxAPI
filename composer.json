@@ -2,7 +2,7 @@
     "name": "leoamsena/dropbox-api",
     "description": "A minimal implementation of Dropbox API v2",
     "keywords": [
-        'leoamsena',
+        "leoamsena",
         "spatie",
         "dropbox-api",
         "dropbox",
